@@ -421,7 +421,7 @@ function Shape:getCollider() return self._collider        end
 function Shape:getClass()    return self._collider._class end
 function Shape:getCTag()     return self._collider._tag   end
 function Shape:getTag()      return self._tag             end
-function Shape:destroy() self._collider:remove_shape(self._tag) end
+function Shape:destroy() self._collider:removeShape(self._tag) end
 
 -------------------------------
 --  <°)))>< <°)))>< <°)))><  --
