@@ -1,17 +1,16 @@
 --[[
            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
-                   Version 2, December 2004
+                   Version 1.0, March 2000
 
-Copyright (C) 2020 - 4v0v
+           Copyright (C) 2020 - 4v0v
 
-Everyone is permitted to copy and distribute verbatim or modified
-copies of this license document, and changing it is allowed as long
-as the name is changed.
+           Everyone is permitted to copy and distribute verbatim copies
+           of this license document, but changing it is not allowed.
 
-           DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
-  TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+           Ok, the purpose of this license is simple
+           and you just
 
- 0. You just DO WHAT THE FUCK YOU WANT TO.
+           DO WHAT THE FUCK YOU WANT TO.
 ]]--
 
 local World, Collider, Shape, lg, lp = {}, {}, {}, love.graphics, love.physics
