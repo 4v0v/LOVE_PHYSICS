@@ -13,7 +13,7 @@
 **Why use it instead of Windfield ?**
 - Some new features !
 - Windfield is no longer maintained
-- Support the latest version of the Löve framework (11.2)
+- Support the latest version of the Löve framework (11.3)
 - Less LOC, no dependencies
 - Some bugs found in Windfield are corrected (mainly collision callbacks)
 
