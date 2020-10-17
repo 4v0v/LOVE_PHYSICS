@@ -1,4 +1,4 @@
-# PHYSICS
+# PHYS1CS
 <p align="center">
     <img width= "600px" src="https://s3.gifyu.com/images/ga654d75960887e22.gif"/>
 </p>
